@@ -1,0 +1,4 @@
+openai==2.54.0
+requests==2.34.2
+beautifulsoup4==4.15.0
+tzdata==2026.4

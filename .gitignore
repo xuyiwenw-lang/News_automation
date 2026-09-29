@@ -1,0 +1,17 @@
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+.pytest_cache/
+.coverage
+
+# Historical source data and operational logs: keep local
+/to_split.json
+/split_results.json
+/write_log.json
